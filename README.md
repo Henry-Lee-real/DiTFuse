@@ -6,19 +6,14 @@
 </p>
 
 
----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png" height="120">
-</p>
 
----
 
 ## 🚀 Overview
 
 
 
----
+
 
 ## 🧩 Environment Setup
 
@@ -30,7 +25,7 @@ Please install the OmniGen environment **before** running DiTFuse.
 
 After configuring the OmniGen environment, DiTFuse scripts can be run directly.
 
----
+
 
 ## 📦 Model Weights
 
@@ -43,7 +38,7 @@ We use OmniGen-v1 as the foundational diffusion transformer:
 👉 **OmniGen-v1:**
 [https://huggingface.co/Shitao/OmniGen-v1](https://huggingface.co/Shitao/OmniGen-v1)
 
----
+
 
 ### **2️⃣ DiTFuse Fine-tuned Weights (LoRA)**
 
@@ -54,7 +49,7 @@ Our semantic-aware and instruction-controllable LoRA modules:
 
 These LoRA weights must be merged into the OmniGen base model before inference.
 
----
+
 
 ## 📁 Project Structure (Preview)
 
@@ -69,7 +64,6 @@ DiTFuse/
 │── README.md
 ```
 
----
 
 ## ▶️ Quick Start (Example)
 
@@ -102,7 +96,7 @@ python run.py \
   --image2 img_b.png
 ```
 
----
+
 
 ## 📄 Citation
 
@@ -111,13 +105,13 @@ If you use **DiTFuse** in your research, please cite:
 ```
 @article{ditfuse2025,
   title={Towards Unified Semantic and Controllable Image Fusion: A Diffusion Transformer Approach},
-  author={Du, Yihua and XXX},
+  author={Jiayang Li, Chengjie Jiang, Pengwei Liang, Jiayi Ma, Liqiang Nie, Junjun Jiang},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2025}
 }
 ```
 
----
+
 
 ## ❤️ Acknowledgements
 
