@@ -1,3 +1,28 @@
+Metadata-Version: 2.4
+Name: OmniGen
+Version: 1.0.3
+Summary: OmniGen
+Home-page: https://github.com/VectorSpaceLab/OmniGen
+Author-email: 2906698981@qq.com
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: torch<2.5
+Requires-Dist: transformers>=4.45.2
+Requires-Dist: datasets
+Requires-Dist: accelerate==0.26.1
+Requires-Dist: diffusers>=0.30.3
+Requires-Dist: timm
+Requires-Dist: peft>=0.9.0
+Requires-Dist: safetensors
+Requires-Dist: setuptools
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
+
 <h1 align="center">OmniGen: Unified Image Generation</h1>
 
 
