@@ -1,1 +1,5 @@
-we will be release the code and the paper before 12.10
+# DiTFuse
+Official implementation of **Towards Unified Semantic and Controllable Image Fusion: A Diffusion Transformer Approach** (TPAMI 2025)
+
+
+Any questions can be consulted -> (Email:lijiayang.cs@gmail.com)
