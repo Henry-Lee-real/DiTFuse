@@ -1,15 +1,10 @@
-# <p align="center">🔥 DiTFuse</p>
+# <p align="center">DiTFuse</p>
 
 <p align="center">
   <strong>Towards Unified Semantic and Controllable Image Fusion: A Diffusion Transformer Approach</strong><br>
   <em>TPAMI 2025</em>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Framework-OmniGen-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Model-DiffusionTransformer-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Task-Image%20Fusion-orange?style=for-the-badge"/>
-</p>
 
 ---
 
