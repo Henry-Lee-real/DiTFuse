@@ -40,6 +40,8 @@ Each pair must share the **same filename** across the two folders.
 
 This project provides three testing modes: **single image pair**, **batch processing**, and **multi-prompt testing**.
 
+How to write a prompt? Looking here ➡️ [`prompt.md`](./prompt.md).
+
 ### Single Pair Testing
 
 ```bash
