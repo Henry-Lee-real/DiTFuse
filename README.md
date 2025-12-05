@@ -16,7 +16,8 @@ Any questions can be consulted -> (Email:lijiayang.cs@gmail.com)
 
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-DiTFuse-ffcc4d?logo=huggingface&logoColor=white&style=flat)](https://huggingface.co/lijiayangCS/DiTFuse)
 
-[![Project Page](https://img.shields.io/badge/🌐–Project%20Page–blue?logo=github&logoColor=white&style=flat)](https://ronniejiang.github.io/DiTFuse/)
+[![DiTFuse Project Page](https://img.shields.io/badge/Visit%20DiTFuse%20Web–blue?logo=github&logoColor=white&style=flat)](https://ronniejiang.github.io/DiTFuse/)
+
 
 
 
