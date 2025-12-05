@@ -1,16 +1,22 @@
-# <p align="center">DiTFuse</p>
-
-<p align="center">
-  <strong>Towards Unified Semantic and Controllable Image Fusion: A Diffusion Transformer Approach</strong><br>
-  <em>TPAMI 2025</em>
-</p>
+# MaeFuse
+Official implementation of **Towards Unified Semantic and Controllable Image Fusion: A Diffusion Transformer Approach** (TPAMI 2025)
 
 paper and all detail information will be release before 12.7
+Any questions can be consulted -> (Email:lijiayang.cs@gmail.com)
+
+### 📌 TODOs
+> - [ ] release code  
+> - [X] release ckpt
+> - [ ] release arxiv
+> - [ ] IEEE version paper
 
 
 
 ## 🚀 Overview
 
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-DiTFuse-ffcc4d?logo=huggingface&logoColor=white&style=flat)](https://huggingface.co/lijiayangCS/DiTFuse)
+
+[![Project Page](https://img.shields.io/badge/🌐–Project%20Page–blue?logo=github&logoColor=white&style=flat)](https://ronniejiang.github.io/DiTFuse/)
 
 
 
