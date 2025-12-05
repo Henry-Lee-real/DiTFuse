@@ -20,13 +20,13 @@ Any questions can be consulted -> (Email:lijiayang.cs@gmail.com)
 
 ## Setup
 
-For detailed installation and usage instructions, please refer to ➡️ [setup.md](./setup.md).
+For detailed installation and usage instructions, please refer to ➡️ [`setup.md`](./setup.md).
 
 
 ## Test & Train
 
 ### Testing
-For testing, please refer to the provided script:➡️ [`test.sh`](./test.sh)
+For testing, please refer to the provided script:➡️ [`test.md`](./test.md)
 
 This script demonstrates how to run DiTFuse in different modes (single, batch, and multi-prompt).
 
