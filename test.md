@@ -103,6 +103,3 @@ Controls the influence of the **input images** during the fusion process.
 * Lower values → the model is freer to modify appearance based on the prompt.
 
 
-
-
-If you want，我可以继续为你把这一节做成 **带图标、分栏布局、甚至增强视觉效果的专业 README 风格**。
