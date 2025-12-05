@@ -20,23 +20,12 @@ Any questions can be consulted -> (Email:lijiayang.cs@gmail.com)
 
 ## Setup
 
-For detailed installation and usage instructions, please refer to  
-[setup.md](./setup.md).
+For detailed installation and usage instructions, please refer to [setup.md](./setup.md).
 
 
+## Test
 
-## 📁 Project Structure (Preview)
 
-```
-DiTFuse/
-│── scripts/
-│   ├── run_single.py
-│   ├── run_batch.py
-│   ├── run_prompt.py
-│── configs/
-│── checkpoints/
-│── README.md
-```
 
 
 ## ▶️ Quick Start (Example)
