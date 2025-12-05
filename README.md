@@ -52,7 +52,7 @@ If you use **DiTFuse** in your research, please cite:
 
 ## ❤️ Acknowledgements
 
-This project is built on top of **OmniGen**,
+This project is built on **OmniGen**,
 a powerful Diffusion Transformer framework developed by VectorSpace Lab.
 
 ---
