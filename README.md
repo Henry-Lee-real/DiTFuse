@@ -18,44 +18,10 @@ Any questions can be consulted -> (Email:lijiayang.cs@gmail.com)
 
 [![Project Page](https://img.shields.io/badge/Project%20Page-DiTFuse-blue?style=flat)](https://ronniejiang.github.io/DiTFuse/)
 
+## Setup
 
-
-
-
-
-## 🧩 Environment Setup
-
-DiTFuse is developed entirely on top of **OmniGen**.
-Please install the OmniGen environment **before** running DiTFuse.
-
-👉 **Follow the official OmniGen setup guide:**
-[https://github.com/VectorSpaceLab/OmniGen](https://github.com/VectorSpaceLab/OmniGen)
-
-After configuring the OmniGen environment, DiTFuse scripts can be run directly.
-
-
-
-## 📦 Model Weights
-
-DiTFuse requires two components:
-
-### **1️⃣ Base Model (Required)**
-
-We use OmniGen-v1 as the foundational diffusion transformer:
-
-👉 **OmniGen-v1:**
-[https://huggingface.co/Shitao/OmniGen-v1](https://huggingface.co/Shitao/OmniGen-v1)
-
-
-
-### **2️⃣ DiTFuse Fine-tuned Weights (LoRA)**
-
-Our semantic-aware and instruction-controllable LoRA modules:
-
-👉 **DiTFuse LoRA Weights:**
-[https://huggingface.co/lijiayangCS/DiTFuse](https://huggingface.co/lijiayangCS/DiTFuse)
-
-These LoRA weights must be merged into the OmniGen base model before inference.
+For detailed installation and usage instructions, please refer to  
+[setup.md](./setup.md).
 
 
 
