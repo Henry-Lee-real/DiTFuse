@@ -20,45 +20,19 @@ Any questions can be consulted -> (Email:lijiayang.cs@gmail.com)
 
 ## Setup
 
-For detailed installation and usage instructions, please refer to [setup.md](./setup.md).
+For detailed installation and usage instructions, please refer to ➡️ [setup.md](./setup.md).
 
 
-## Test
+## Test & Train
+
+### Testing
+For testing, please refer to the provided script:➡️ [`test.sh`](./test.sh)
+
+This script demonstrates how to run DiTFuse in different modes (single, batch, and multi-prompt).
 
 
-
-
-## ▶️ Quick Start (Example)
-
-### **Single Pair Fusion**
-
-```bash
-python run.py \
-  --mode single \
-  --image1 path/to/img1.png \
-  --image2 path/to/img2.png \
-  --prompt_single "Fuse the two images while preserving thermal targets."
-```
-
-### **Batch Fusion**
-
-```bash
-python run.py \
-  --mode batch \
-  --image_dir ./data/fusion_pairs \
-  --prompt_batch "High-clarity multispectral fusion."
-```
-
-### **Prompt Library Fusion**
-
-```bash
-python run.py \
-  --mode prompt \
-  --prompt_file prompts.txt \
-  --image1 img_a.png \
-  --image2 img_b.png
-```
-
+### Training
+Training follows the same procedure as OmniGen.
 
 
 ## 📄 Citation
