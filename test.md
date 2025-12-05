@@ -102,4 +102,10 @@ Controls the influence of the **input images** during the fusion process.
 * Higher values → the fused image preserves more original visual structures.
 * Lower values → the model is freer to modify appearance based on the prompt.
 
+<img width="1968" height="1628" alt="image" src="https://github.com/user-attachments/assets/6d6a8260-4be9-40fb-beb2-d248df72bc1d" />
+<img width="1968" height="1628" alt="image" src="https://github.com/user-attachments/assets/1075c7f7-24a4-4614-b755-466ead8ceb7d" />
+<img width="1968" height="1628" alt="image" src="https://github.com/user-attachments/assets/79b55144-a23e-41f5-9f4b-699775355530" />
+
+
+
 
