@@ -10,7 +10,11 @@ Any questions can be consulted -> (Email:lijiayang.cs@gmail.com)
 > - [ ] release arxiv
 > - [ ] IEEE version paper
 
+## Core Concept:
 
+The core objective of our work is to demonstrate the superiority of a parallel architecture in information control. In our experiments beyond the main paper, I also tried AdaIN-based information injection and T2I-Adapter-style feature-map addition. However, these approaches inevitably cause information from the two modalities to become entangled—numerically mixed together—making it impossible to truly separate the content of the two input images. This is why explicit information disentanglement is necessary, and why a parallel design is the appropriate choice.
+
+In addition, the M3-style synthetic fusion data construction pipeline can significantly improve the performance of the fusion task itself. Finally, with the rapid progress of unified models for visual understanding and generation, we believe fusion tasks should also actively embrace this trend, incorporating strong visual priors into fusion frameworks. We look forward to future advances enabled by such unified architectures.
 
 ## 🚀 Overview
 
