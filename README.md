@@ -46,7 +46,7 @@ If you use **DiTFuse** in your research, please cite:
 ```
 @article{ditfuse2025,
   title={Towards Unified Semantic and Controllable Image Fusion: A Diffusion Transformer Approach},
-  author={Jiayang Li, Chengjie Jiang, Pengwei Liang, Jiayi Ma, Liqiang Nie, Junjun Jiang},
+  author={Jiayang Li, Chengjie Jiang, Junjun Jiang, Pengwei Liang, Jiayi Ma, Liqiang Nie},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2025}
 }
