@@ -3,6 +3,8 @@ Official implementation of **Towards Unified Semantic and Controllable Image Fus
 
 Any questions can be consulted -> (Email:lijiayang.cs@gmail.com)
 
+Looking forward to your ⭐！
+
 ### 📌 TODOs
 > - [X] release code  
 > - [X] release ckpt
