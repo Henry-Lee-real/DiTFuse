@@ -19,7 +19,6 @@ In addition, the M3-style synthetic fusion data construction pipeline can signif
 ## 🚀 Overview
 
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-DiTFuse-ffcc4d?logo=huggingface&logoColor=white&style=flat)](https://huggingface.co/lijiayangCS/DiTFuse)
-
 [![Project Page](https://img.shields.io/badge/Project%20Page-DiTFuse-blue?style=flat)](https://ronniejiang.github.io/DiTFuse/)
 
 ## Setup
