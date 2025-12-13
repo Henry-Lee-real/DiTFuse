@@ -37,6 +37,7 @@ For testing, please refer to the provided script:➡️ [`test.md`](./test.md)
 
 This script demonstrates how to run DiTFuse in different modes (single, batch, and multi-prompt).
 
+The inference stage requires approximately 12 GB of GPU memory and can be efficiently executed on widely available high-performance GPUs, such as NVIDIA RTX 3090, V100, and RTX 4090.
 
 ### Training
 Training follows the same procedure as OmniGen.
