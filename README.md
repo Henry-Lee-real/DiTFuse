@@ -48,12 +48,16 @@ Training follows the same procedure as OmniGen.
 If you use **DiTFuse** in your research, please cite:
 
 ```
-@article{ditfuse2025,
-  title={Towards Unified Semantic and Controllable Image Fusion: A Diffusion Transformer Approach},
-  author={Jiayang Li, Chengjie Jiang, Junjun Jiang, Pengwei Liang, Jiayi Ma, Liqiang Nie},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2025}
-}
+@ARTICLE{11297852,
+  author={Li, Jiayang and Jiang, Chengjie and Jiang, Junjun and Liang, Pengwei and Ma, Jiayi and Nie, Liqiang},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Towards Unified Semantic and Controllable Image Fusion: A Diffusion Transformer Approach}, 
+  year={2026},
+  volume={48},
+  number={4},
+  pages={3970-3987},
+  keywords={Semantics;Image fusion;Training;Image segmentation;Transformers;Optimization;Data models;Visual effects;Feature extraction;Electronic mail;Image fusion;DiT;text control},
+  doi={10.1109/TPAMI.2025.3642842}}
 ```
 
 
