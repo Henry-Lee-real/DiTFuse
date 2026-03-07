@@ -22,7 +22,7 @@ In addition, the M3-style synthetic fusion data construction pipeline can signif
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-DiTFuse-ffcc4d?logo=huggingface&logoColor=white&style=flat)](https://huggingface.co/lijiayangCS/DiTFuse)
 [![Project Page](https://img.shields.io/badge/Project%20Page-DiTFuse-blue?style=flat)](https://ronniejiang.github.io/DiTFuse/)
 [![arXiv 2512.07170](https://img.shields.io/badge/arXiv-2512.07170-b31b1b?logo=arXiv&logoColor=white&style=flat)](https://arxiv.org/pdf/2512.07170)
-[![IEEE TPAMI](https://img.shields.io/badge/IEEE%20TPAMI-Accepted-blue?logo=ieee&logoColor=white)](#)
+[![IEEE TPAMI](https://img.shields.io/badge/IEEE%20TPAMI-Accepted-blue?logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11297852)
 
 
 ## Setup
